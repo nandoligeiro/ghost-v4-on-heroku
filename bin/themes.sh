@@ -2,6 +2,7 @@ themes=(
 	casper
 	lyra
 	simply-master
+	mapache
 )
 
 for theme in "${themes[@]}"
